@@ -47,13 +47,13 @@ To run this project on your local machine, follow these steps.
     ```bash
     python connectFour_game.py
     ```
-    *(Note: Replace `connect_four_ai.py` with the actual name of your Python file.)*
+    *(Note: Replace `connectFour_game.py` with the actual name of your Python file.)*
 
 ## 5. How to Play
 
 1.  Run the script as instructed above. The empty 6x7 game board will be printed to the console.
 2.  The game follows standard Connect Four rules. You are **Player 1** (represented by `1`). The AI is **Player 2** (represented by `2`).
-3.  When prompted (`Oyuncu, 0-6 arasında bir sütun seçin:`), enter the column number (0 through 6) where you want to drop your piece.
+3.  When prompted (`Player, select a column from 0-6:`), enter the column number (0 through 6) where you want to drop your piece.
 4.  The board will update and display your move.
 5.  The AI will then calculate its best move and place its piece on the board. The console will announce the AI's chosen column.
 6.  The game continues until one player achieves four pieces in a row (horizontally, vertically, or diagonally) or the board is full (a draw).
