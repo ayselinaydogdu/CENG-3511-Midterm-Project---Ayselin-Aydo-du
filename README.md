@@ -32,8 +32,8 @@ To run this project on your local machine, follow these steps.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
-    cd YOUR_REPOSITORY
+    git clone [https://github.com/ayselinaydogdu/CENG-3511-Midterm-Project.git](https://github.com/ayselinaydogdu/CENG-3511-Midterm-Project.git)
+    cd CENG-3511-Midterm-Project
     ```
 
 2.  **Install Dependencies:**
